@@ -1,12 +1,12 @@
 <img align="right" width="26%" src="https://owlbert.io/images/owlberts-png/Reading.psd.png">
 
-@readme/markdown
+@moyarenko/markdown
 ===
 
 ReadMe's flavored Markdown parser and MDX rendering engine. <img align=center src=https://github.com/readmeio/markdown/workflows/CI/badge.svg alt="RDMD CI Status">
 
 ```
-npm install --save @readme/markdown
+npm install --save @moyarenko/markdown
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ By default, the updated markdown package exports a function which takes a string
 
 ```jsx
 import React from 'react';
-import rdmd from "@readme/markdown";
+import rdmd from "@moyarenko/markdown";
 
 export default ({ body }) => (
   <div className="markdown-body">
