@@ -1,6 +1,12 @@
 Changelog
 ===
 
+## Version 6.55.3
+
+### 🛠 Fixes & Updates
+
+* bump react from 16 to 17
+
 ## Version 6.55.2
 
 ### 🛠 Fixes & Updates
