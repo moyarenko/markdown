@@ -112,7 +112,7 @@
   },
   "license": "MIT",
   "homepage": "https://rdmd.readme.io",
-  "repository": "https://github.com/moyarenko/markdown",
+  "repository": "git@github.com:moyarenko/markdown.git",
   "prettier": "@readme/eslint-config/prettier",
   "bundlewatch": {
     "files": [
